@@ -1,1 +1,1 @@
-# Amazon_clone
+# Netflix_clone
